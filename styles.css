@@ -1,0 +1,49 @@
+.img-thumbnail{
+  padding-top: 20px;
+  margin:5px;
+  border: none;
+}
+
+.col-md-12{
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom:0px;
+}
+.navbar{
+  padding-top:0px;
+  padding-bottom: 0px;
+  padding-right:40px;
+  padding-left: 0px;
+  background-color: teal
+}
+
+.nav-item.dropdown.show {
+  background-color: white;
+}
+
+.dropdown-menu {
+  margin: 10px;
+}
+
+
+.content {
+  padding-top: 50px;
+  padding-bottom: 80px;
+  overflow: hidden;
+}
+
+.col-md-4 {
+float: right;
+}
+
+.col-lg-7 {
+  float: left;
+  }
+
+.navigation {
+  background-color: teal;
+}
+
+.titles {
+  color: rgb(20, 88, 88);
+}
